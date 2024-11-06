@@ -29,6 +29,6 @@ python ./__main__.py
 > 
 ### Использование приложения
 Перевод речи в текст и вывод языка
-![Речь в текст и язык](https://github.com/user-attachments/assets/431bfffb-2f97-46cd-9cf3-38008446612d)
+![Речь в текст и язык](https://github.com/user-attachments/assets/b56c4b1c-b4f7-4e87-a028-695ff70abf5e)
 Предсказание эмоции
-![Эмоция](https://github.com/user-attachments/assets/c39c5e4a-86eb-429c-aa09-295ba390b34e)
+![Эмоция](https://github.com/user-attachments/assets/d38f7680-c903-4a29-9db2-13b7d19cfe69)
