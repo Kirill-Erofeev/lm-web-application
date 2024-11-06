@@ -2,11 +2,11 @@
 ### Установка приложения
 Клонирование репозитория
 ```cmd
-git clone https://github.com/Kirill-Erofeev/lm_web-application.git
+git clone https://github.com/Kirill-Erofeev/lm-web-application.git
 ```
 Переход в корневую папку проекта
 ```cmd
-cd ./lm_web-application
+cd ./lm-web-application
 ```
 Создание виртуального окружения
 ```cmd
